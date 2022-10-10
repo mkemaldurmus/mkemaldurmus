@@ -18,8 +18,8 @@
 
 
 ### Glad to see you here!  
-I am a software engineer. I have 2 years' experience.
-I work on Fully distributed and microservice systems are working on 
+I am a software engineer. I have 2 years experience.
+I work on Fully distributed and microservice systems are working on AWS
 My responsibility is to develop and maintain backend systems.
   
   
