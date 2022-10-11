@@ -33,10 +33,7 @@ My responsibility is to develop and maintain backend systems.
 - 🔭 I’m currently working Backend Engineer at  [Cognira](https://cognira.com/)  
   
 
-- 🌱 I’m currently learning Scala  and Big data  
-  
-
-- ❓ Ask me about anything related to Scala/Big Data stack and related technologies  
+- 🌱 I’m currently learning Scala  and Rust
   
 
 - 🤝  I'm open to collaborating on Scala  
