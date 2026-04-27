@@ -1,6 +1,6 @@
 # Hey 👋, I'm Kemal Durmuş
 
-### Backend / Scala Engineer | Distributed Systems | Cloud | AI Enthusiast
+### Backend / JVM | Distributed Systems | Cloud | AI Enthusiast
 
 I’m a backend engineer with 6+ years of experience building scalable, distributed, and event-driven systems in production.
 
