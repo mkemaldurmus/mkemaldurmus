@@ -1,97 +1,88 @@
-## Hey 👋, I'm Kemal Durmuş!  
-  
+# Hey 👋, I'm Kemal Durmuş
+
+### Backend / Scala Engineer | Distributed Systems | Cloud | AI Enthusiast
+
+I’m a backend engineer with 6+ years of experience building scalable, distributed, and event-driven systems in production.
+
+I specialize in **Scala**, **Java**, **Kubernetes**, **PostgreSQL**, and **AWS**, and have hands-on experience designing microservices, modular monoliths, and real-time data pipelines.
+
+Recently, I’ve been focusing on **AI-assisted development**, **LLM/RAG systems**, and integrating modern AI workflows into software engineering.
+
+---
+
+## 🌐 Connect with me
 
 <a href="https://github.com/mkemaldurmus" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://twitter.com/real_kemal" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/mkemaldurmus" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@mkemaldurmus" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-  
+<img src="https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
+---
 
+## 🚀 About Me
 
-### Glad to see you here!  
-I am a software engineer. I have 6 years experience.
-I work on Fully distributed and microservice systems are working on AWS and Azure
-My responsibility is to develop and maintain backend systems.
+- ⚙️ Building distributed pricing & promotion systems in production
+- 🛠 Led migration from **Cassandra → PostgreSQL**
+- 🏗 Refactored microservices into a **modular monolith**
+- ☁️ Experienced with **AWS**, event-driven architectures, and streaming systems
+- 🌱 Currently learning **Rust**, **Java**, **Go**, and **AI Agent / RAG systems**
+- 🤝 Open to collaborating on **Scala**, **Java** and **AI-related** projects
+- 📍 Open to **relocation** and **remote opportunities**
 
-  
-  
+---
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working Backend Engineer at  [Cognira](https://cognira.com/)  
-  
-
-- 🌱 I’m currently learning Scala  and Rust
-  
-
-- 🤝  I'm open to collaborating on Scala  
-
-
-</td><td valign="top" width="50%">
+## 🛠 Languages and Tools
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
+<img src="https://skillicons.dev/icons?i=scala,rust,postgres,aws,docker,kubernetes,redis,kafka,elasticsearch,git,linux" />
 
-</td></tr></table>  
+</div>
 
-<br/>  
+---
 
+## 📌 Current Focus
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>  
-<a href="https://cassandra.apache.org/_/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_cassandra-icon.svg" alt="Cassandra" height="50" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>  
+- AI Agents / Agentic workflows
+- Retrieval-Augmented Generation (RAG)
+- Event-driven architectures
+- Distributed systems design
+- High-performance backend development
 
-<br/>  
+---
 
+## 📊 GitHub Stats
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mkemaldurmus&show_icons=true&count_private=true&hide_border=true" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemaldurmus&hide_border=true&layout=compact" />
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mkemaldurmus&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+---
 
-</td><td valign="top" width="50%">
+## ✍️ Latest Interests
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkemaldurmus&hide_border=true&layout=compact" align="left" style="width: 100%" />
+I’m interested in:
 
-</td></tr></table>  
+- Building scalable backend systems
+- Learning more about **LLMs**, **RAG**, and **AI in production**
+- Exploring **Rust** for systems programming
+- Solving concurrency and distributed systems problems
 
-<br/>  
+---
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=mkemaldurmus&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=mkemaldurmus&&style=flat-square)
