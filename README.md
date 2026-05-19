@@ -33,7 +33,6 @@ Recently, I’ve been focusing on **AI-assisted development**, **LLM/RAG systems
 - 🛠 Led migration from **Cassandra → PostgreSQL**
 - 🏗 Refactored microservices into a **modular monolith**
 - ☁️ Experienced with **AWS**, event-driven architectures, and streaming systems
-- 🌱 Currently learning **Rust**, **Java**, **Go**, and **AI Agent / RAG systems**
 - 🤝 Open to collaborating on **Scala**, **Java** and **AI-related** projects
 - 📍 Open to **relocation** and **remote opportunities**
 
